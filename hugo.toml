@@ -1,0 +1,4 @@
+baseURL = '106.14.1.67'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hextra'
